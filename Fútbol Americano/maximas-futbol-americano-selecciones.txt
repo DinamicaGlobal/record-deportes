@@ -1,0 +1,106 @@
+ID	Fecha	Categoría	Género	Gana	Pts.F	Pts.C	Pierde	Diferencia
+01	2024-06-22	Sub 20	Varonil	Canadá	110	0	Brasil	110
+02	2013-07-04	Absoluto	Femenil	EEUU	107	7	Alemania	100
+03	2014-07-07	Juvenil	Varonil	Canadá	91	0	Kuwait	91
+04	1999-01-01	Absoluto	Varonil	México	89	0	Finlandia	89
+05	2003-01-01	Absoluto	Varonil	Japón	88	0	Corea del Sur	88
+06	2014-04-26	Absoluto	Varonil	Japón	86	0	Filipinas	86
+07	2014-05-04	Universitario	Varonil	Japón	84	0	Finlandia	84
+08	2013-06-30	Absoluto	Femenil	EEUU	84	0	Suecia	84
+09	2004-04-11	Juvenil	Varonil	Francia	84	0	Noruega	84
+10	2015-07-15	Absoluto	Varonil	Estados Unidos	82	0	Francia	82
+11	2009-06-27	Juvenil	Varonil	EEUU	78	0	Suecia	78
+12	2007-07-10	Absoluto	Varonil	Estados Unidos	77	0	Corea del Sur	77
+13	2014-07-15	Juvenil	Varonil	Alemania	76	0	Kuwait	76
+14	2011-02-26	Absoluto	Varonil	Japón	76	0	Corea del Sur	76
+15	2024-06-22	Sub 20	Varonil	EEUU	86	12	Panamá	74
+16	2014-07-13	Juvenil	Varonil	Francia	74	0	Kuwait	74
+17	2010-07-01	Absoluto	Femenil	EEUU	72	0	Finlandia	72
+18	2009-08-20	Absoluto	Varonil	Austria	70	0	España	70
+19	2013-09-10	Absoluto	Varonil	Panamá	75	6	Nicaragua	69
+20	2010-07-03	Absoluto	Femenil	EEUU	66	0	Canadá	66
+21	2014-06-02	Absoluto	Varonil	Francia	65	0	Dinamarca	65
+22	2011-07-10	Absoluto	Varonil	México	65	0	Australia	65
+23	2016-07-30	Absoluto	Varonil	Australia	70	6	Polinesia Francesa	64
+24	2014-07-10	Juvenil	Varonil	Austria	64	0	Kuwait	64
+25	2013-07-06	Absoluto	Femenil	Suecia	64	0	España	64
+26	2013-07-06	Absoluto	Femenil	EEUU	64	0	Canadá	64
+27	2012-07-04	Juvenil	Varonil	EEUU	70	7	Austria	63
+28	2010-06-27	Absoluto	Femenil	EEUU	63	0	Austria	63
+29	2014-05-02	Universitario	Varonil	México	62	0	Suecia	62
+30	2014-04-12	Absoluto	Varonil	Corea del Sur	69	7	Kuwait	62
+31	2006-07-26	Juvenil	Varonil	Francia	62	0	Rusia	62
+32	2012-05-05	Absoluto	Varonil	Turquía	61	0	Rumanía	61
+33	2011-07-08	Absoluto	Varonil	Estados Unidos	61	0	Australia	61
+34	2007-01-01	Absoluto	Varonil	Alemania	68	7	Dinamarca	61
+35	2000-04-15	Juvenil	Varonil	Francia	60	0	España	60
+36	2015-10-10	Absoluto	Varonil	Serbia	56	0	Hungría	56
+37	2014-07-10	Juvenil	Varonil	Canadá	56	0	Francia	56
+38	2007-08-12	Absoluto	Varonil	Austria	59	3	Serbia	56
+39	2006-07-23	Juvenil	Varonil	Alemania	56	0	Checa	56
+40	2000-01-01	Juvenil	Varonil	Austria	56	0	Suiza	56
+41	1998-01-01	Absoluto	Varonil	Suecia	56	0	Ucrania	56
+42	2009-07-01	Juvenil	Varonil	EEUU	55	0	México	55
+43	2009-06-27	Juvenil	Varonil	Canadá	55	0	Nueva Zelanda	55
+44	2014-07-10	Juvenil	Varonil	EEUU	54	0	Alemania	54
+45	2014-05-06	Universitario	Varonil	Japón	54	0	China	54
+46	1999-01-01	Absoluto	Varonil	México	54	0	Italia	54
+47	1999-01-01	Absoluto	Varonil	Japón	54	0	Australia	54
+48	2014-05-06	Universitario	Varonil	México	53	0	Finlandia	53
+49	2013-09-02	Absoluto	Varonil	Gran Bretaña	58	6	España	52
+50	2009-07-01	Juvenil	Varonil	Alemania	52	0	Nueva Zelanda	52
+51	2016-09-04	Absoluto	Varonil	Suiza	51	0	Israel	51
+52	2012-07-03	Juvenil	Varonil	Samoa Americana	51	0	Panamá	51
+53	2015-10-03	Absoluto	Femenil	Finlandia	50	0	Suecia	50
+54	2015-07-12	Absoluto	Varonil	Francia	53	3	Australia	50
+55	2013-07-02	Absoluto	Femenil	Canadá	50	0	España	50
+56	2010-07-27	Absoluto	Varonil	Francia	50	0	Gran Bretaña	50
+57	2015-02-07	Absoluto	Varonil	Bélgica	61	12	Kuwait	49
+58	2014-04-26	Absoluto	Varonil	Brasil	49	0	Uruguay	49
+59	2015-05-03	Absoluto	Femenil	Gran Bretaña	54	6	Rusia	48
+60	2013-08-31	Absoluto	Varonil	Italia	55	7	España	48
+61	2007-07-12	Absoluto	Varonil	Japón	48	0	Suecia	48
+62	2007-07-07	Absoluto	Varonil	Japón	48	0	Francia	48
+63	2015-07-18	Absoluto	Varonil	Estados Unidos	59	12	Japón	47
+64	2014-05-02	Universitario	Varonil	Finlandia	47	0	China	47
+65	2013-06-30	Absoluto	Femenil	Finlandia	47	0	España	47
+66	2024-06-26	Sub 20	Varonil	Canadá	63	17	Brasil	46
+67	2012-08-04	Absoluto	Varonil	Rusia	46	0	Bielorrusia	46
+68	2009-01-01	Juvenil	Varonil	Panamá	52	6	Bahamas	46
+69	2006-04-16	Juvenil	Varonil	Austria	53	7	Italia	46
+70	2001-05-12	Juvenil	Varonil	Rusia	56	10	Dinamarca	46
+71	2000-07-30	Juvenil	Varonil	Alemania	53	7	Gran Bretaña	46
+72	2015-08-06	Absoluto	Femenil	Finlandia	52	7	Austria	45
+73	2024-06-22	Sub 20	Varonil	Japón	50	6	Australia	44
+74	2014-07-13	Juvenil	Varonil	EEUU	43	0	Japón	43
+75	2012-06-30	Juvenil	Varonil	Canadá	43	0	Suecia	43
+76	2011-07-16	Absoluto	Varonil	Estados Unidos	50	7	Canadá	43
+77	1948-12-19	Absoluto	Varonil	Estados Unidos	43	0	Canadá	43
+78	2014-05-31	Absoluto	Varonil	Austria	49	7	Dinamarca	42
+79	2009-08-22	Absoluto	Varonil	Austria	42	0	Dinamarca	42
+80	2006-10-16	Absoluto	Varonil	Finlandia	42	0	Rusia	42
+81	2006-07-25	Juvenil	Varonil	Austria	42	0	Checa	42
+82	2004-05-30	Juvenil	Varonil	Austria	54	12	Suiza	42
+83	2003-07-30	Absoluto	Varonil	Italia	63	21	Países Bajos	42
+84	2000-08-03	Juvenil	Varonil	Alemania	48	6	Finlandia	42
+85	2015-07-09	Absoluto	Varonil	Australia	47	6	Corea del Sur	41
+86	2014-05-04	Universitario	Varonil	Suecia	41	0	China	41
+87	2013-09-14	Absoluto	Varonil	Panamá	54	13	Costa Rica	41
+88	2012-07-03	Juvenil	Varonil	Francia	41	0	Suecia	41
+89	2011-07-10	Absoluto	Varonil	Estados Unidos	48	7	Alemania	41
+90	2009-06-27	Juvenil	Varonil	México	41	0	Suecia	41
+91	2005-07-26	Juvenil	Varonil	Francia	41	0	Dinamarca	41
+92	2004-08-25	Absoluto	Varonil	Reino Unido	41	0	España	41
+93	2016-07-23	Absoluto	Varonil	Samoa Americana	52	12	Polinesia Francesa	40
+94	2014-05-30	Absoluto	Varonil	Alemania	47	7	Finlandia	40
+95	2012-06-30	Juvenil	Varonil	Austria	40	0	Panamá	40
+96	2008-07-17	Juvenil	Varonil	Dinamarca	46	6	Finlandia	40
+97	2008-07-14	Juvenil	Varonil	Suecia	40	0	España	40
+98	2002-07-30	Juvenil	Varonil	Rusia	40	0	Checa	40
+99	2000-05-06	Juvenil	Varonil	Gran Bretaña	40	0	Países Bajos	40
+100	2015-12-06	Absoluto	Varonil	El Salvador	38	0	Nicaragua	38
+101	2015-08-08	Absoluto	Femenil	Finlandia	50	12	Reino Unido	38
+102	2015-08-02	Absoluto	Femenil	Finlandia	56	18	España	38
+103	2014-04-12	Absoluto	Varonil	Japón	38	0	Alemania	38
+104	2011-07-15	Absoluto	Varonil	Austria	48	10	Australia	38
+105	2009-07-04	Juvenil	Varonil	EEUU	41	3	Canadá	38

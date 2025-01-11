@@ -1,0 +1,101 @@
+Id	Fecha	Ganador	x	y	Perdió	Nivel	Genero	Diferencia
+1	2002-dic-25	Japón	205	21	Mongolia	Sub 18	Femenil	184
+2	2001-ene-01	República Democrática del Congo	208	39	Níger	Absoluta	Femenil	169
+3	1996-sep-01	Japón	178	17	Bangladesh	Sub 18	Varonil	161
+4	1982-ene-01	Corea del Sur	187	26	Macao	Absoluta	Femenil	161
+5	1982-ene-01	China	173	18	Macao	Absoluta	Femenil	155
+6	1982-ene-01	Japón	174	21	Macao	Absoluta	Femenil	153
+7	2015-abr-04	Indonesia	166	14	Brunei	Sub 16	Varonil	152
+8	1986-ene-01	Corea del Sur	163	24	India	Absoluta	Femenil	139
+9	2001-ene-01	Angola	154	20	Níger	Absoluta	Femenil	134
+10	1978-jul-01	Túnez	185	51	Mauricio	Absoluta	Varonil	134
+11	1996-sep-02	China	160	27	Bangladesh	Sub 18	Varonil	133
+12	1982-ene-01	China	172	39	Malasia	Absoluta	Femenil	133
+13	1976-ene-01	Corea del Sur	158	25	Filipinas	Absoluta	Femenil	133
+14	2002-dic-21	China	155	24	Macao	Sub 18	Femenil	131
+15	1952-ene-01	U.R.S.S.	133	4	R.D.A.	Absoluta	Femenil	129
+16	1956-ene-01	U.R.S.S.	153	25	Suiza	Absoluta	Femenil	128
+17	1975-ene-01	Corea del Sur	163	36	Sri Lanka	Absoluta	Varonil	127
+18	1974-ene-01	Centroáfrica	158	32	Tanzania	Absoluta	Varonil	126
+19	2016-ago-29	Malí	143	19	Uganda	Sub 18	Femenil	124
+20	1955-ene-01	Checoslovaquia	132	9	Dinamarca	Absoluta	Femenil	123
+21	2001-ene-01	Kazajistán	141	20	Sri Lanka	Absoluta	Varonil	121
+22	2005-ene-01	Bielorusia	138	19	Malta	Absoluta	Femenil	119
+23	1989-ene-01	Centroáfrica	165	46	Zambia	Absoluta	Varonil	119
+24	1975-ene-01	Japón	133	14	Jamer (Camboya)	Absoluta	Femenil	119
+25	1997-ene-01	Australia	140	23	Nueva Caledonia	Absoluta	Femenil	117
+26	1980-ene-01	Corea del Sur	167	50	Tailandia	Absoluta	Femenil	117
+27	1978-ene-01	China	141	24	Hong Kong	Absoluta	Femenil	117
+28	1978-ene-01	Corea del Sur	133	17	Sri Lanka	Absoluta	Femenil	116
+29	1996-sep-06	Jordania	158	44	Bangladesh	Sub 18	Varonil	114
+30	1974-ene-01	Malí	151	37	Tanzania	Absoluta	Varonil	114
+31	2015-ago-16	Australia	141	29	Nueva Caledonia	Sub 16	Varonil	112
+32	2002-dic-22	Corea del Sur	134	23	Mongolia	Sub 18	Femenil	111
+33	2015-ago-15	Nueva Zelandia	145	36	Nueva Caledonia	Sub 16	Varonil	109
+34	2001-ene-01	India	142	33	Macao	Absoluta	Varonil	109
+35	1997-ene-01	Malí	140	31	Uganda	Absoluta	Femenil	109
+36	1979-ene-01	Japón	151	42	Bangladesh	Absoluta	Varonil	109
+37	1956-ene-01	Checoslovaquia	145	36	Austria	Absoluta	Femenil	109
+38	1986-ene-01	China	138	31	Indonesia	Absoluta	Varonil	107
+39	2012-ago-17	China	153	47	Hong Kong	Sub 18	Varonil	106
+40	1997-ene-01	Senegal	150	45	Uganda	Absoluta	Femenil	105
+41	1987-ene-01	Australia	136	31	Polinesia Francesa	Absoluta	Varonil	105
+42	1974-ene-01	Centroáfrica	172	67	Senegal	Absoluta	Varonil	105
+43	2002-dic-25	Corea del Norte	125	20	Macao	Sub 18	Femenil	105
+44	1979-ene-01	Australia	119	14	Malasia	Absoluta	Femenil	105
+45	2007-ene-01	Australia	136	32	Fiji	Absoluta	Femenil	104
+46	1986-ene-01	Zaire	150	46	Kenia	Absoluta	Femenil	104
+47	1970-ene-01	Japón	137	33	Indonesia	Absoluta	Varonil	104
+48	1953-ene-01	U.R.S.S.	118	14	Dinamarca	Absoluta	Varonil	104
+49	2009-ene-01	Japón	148	45	Sri Lanka	Absoluta	Varonil	103
+50	1997-ene-01	Nueva Zelandia	124	21	Nueva Caledonia	Absoluta	Femenil	103
+51	1969-ago-01	Fiji	117	14	Guam	Absoluta	Femenil	103
+52	1947-ene-01	Bélgica	114	11	Albania	Absoluta	Varonil	103
+53	1939-ene-01	Letonia	108	7	Finlandia	Absoluta	Varonil	101
+54	1979-ene-01	Malasia	171	71	Bangladesh	Absoluta	Varonil	100
+55	1997-ene-01	República Democrática del Congo	151	51	Tanzania	Absoluta	Femenil	100
+56	1965-abr-10	Japón	129	29	Malasia	Absoluta	Femenil	100
+57	1948-ago-06	China	125	25	Iraq	Absoluta	Varonil	100
+58	1948-ago-04	Corea del Sur	120	20	Iraq	Absoluta	Varonil	100
+59	1980-may-07	Checoslovaquia	125	26	Irlanda	Absoluta	Varonil	99
+60	1980-may-05	Bulgaria	151	52	Nigeria	Absoluta	Varonil	99
+61	1969-ago-01	Papua Nueva Guinea	108	9	Guam	Absoluta	Femenil	99
+62	2015-ago-02	Egipto	145	48	Guinea Ecuatorial	Sub 16	Varonil	97
+63	2007-ene-01	Angola	136	39	Zambia	Absoluta	Femenil	97
+64	2005-ene-01	Malí	128	32	Gambia	Absoluta	Varonil	96
+65	2002-ene-01	Francia	131	35	Túnez	Absoluta	Femenil	96
+66	1955-ene-01	Polonia	140	44	Inglaterra	Absoluta	Varonil	96
+67	1951-ene-01	U.R.S.S.	109	13	Dinamarca	Absoluta	Varonil	96
+68	1997-ene-01	Nueva Zelandia	136	41	Nueva Caledonia	Absoluta	Varonil	95
+69	1988-ene-01	China	115	20	Malasia	Absoluta	Femenil	95
+70	1975-may-17	Puerto Rico	148	53	Haití	Absoluta	Varonil	95
+71	1975-may-04	Bahamas	166	72	Haití	Absoluta	Varonil	94
+72	2015-abr-14	Tailandia	118	25	Brunei	Sub 16	Varonil	93
+73	1990-ene-01	Brasil	143	50	Malasia	Absoluta	Femenil	93
+74	1978-jul-15	Costa de Marfil	153	60	Mauricio	Absoluta	Varonil	93
+75	1971-ene-01	Japón	121	28	Madagascar	Absoluta	Femenil	93
+76	1997-ene-01	Australia	138	46	Nueva Caledonia	Absoluta	Varonil	92
+77	1995-ene-01	Australia	141	49	Samoa Americana	Absoluta	Varonil	92
+78	1978-jul-02	Egipto	163	71	Mauricio	Absoluta	Varonil	92
+79	1974-ene-01	U.R.S.S.	140	48	Centroáfrica	Absoluta	Varonil	92
+80	2011-ene-01	Costa de Marfil	124	33	Ghana	Absoluta	Femenil	91
+81	2010-sep-22	Líbano	123	32	Catar	Sub 18	Varonil	91
+82	1966-dic-01	Fiji	118	27	Nuevas Hebreidas	Absoluta	Varonil	91
+83	1986-ene-01	Canadá	128	38	Malasia	Absoluta	Varonil	90
+84	1970-ene-01	Corea	98	8	Vietnam	Absoluta	Femenil	90
+85	1962-ene-01	República Árabe Unida	110	20	Etiopía	Absoluta	Varonil	90
+86	2013-ene-01	Mozambique	117	28	Zimbabue	Absoluta	Femenil	89
+87	2001-ene-01	Túnez	131	42	Níger	Absoluta	Femenil	89
+88	1988-ene-01	Taiwán	120	31	Singapur	Absoluta	Varonil	89
+89	2007-ene-01	Nueva Zelandia	118	31	Fiji	Absoluta	Femenil	87
+90	1972-dic-10	Filipinas	117	30	India	Sub 18	Varonil	87
+91	2013-ene-01	Mozambique	105	19	Botsuana	Absoluta	Varonil	86
+92	1997-ene-01	Nigeria	115	29	Tanzania	Absoluta	Femenil	86
+93	1970-ene-01	Japón	108	22	Malasia	Absoluta	Femenil	86
+94	1972-dic-13	Corea del Sur	136	51	Malasia	Sub 18	Varonil	85
+95	2015-ago-17	Nueva Zelandia	122	38	Polinesia Francesa	Sub 16	Varonil	84
+96	1990-ene-01	Corea del Norte	106	22	Sri Lanka	Absoluta	Varonil	84
+97	1969-ago-01	Polinesia Francesa	107	23	Islas Salomón	Absoluta	Varonil	84
+98	2012-ene-01	Estados Unidos	156	73	Nigeria	Absoluta	Varonil	83
+99	2011-ene-01	Brasil	117	34	Paraguay	Absoluta	Femenil	83
+100	1965-abr-10	Corea del Sur	105	22	Filipinas	Absoluta	Femenil	83
