@@ -1,0 +1,103 @@
+Futbol Playa Mayores goleadas. Ultima acyualizacion: 2025-enero-13
+ID	Fecha	Categoria	Género	Gana	GF	GC	Pierde	Torneo	Diferencia
+01	2000-07-01	Absoluta	Varonil	Brasil	22	1	Mónaco	Amistoso	21
+02	2005-03-03	Absoluta	Varonil	Brasil	23	3	México	Amistoso	20
+03	1998-08-01	Absoluta	Varonil	Brasil	20	0	Nigeria	Mundialito	20
+04	2006-05-01	Absoluta	Varonil	Japón	16	0	Filipinas	Copa Mundial de Beach soccer	16
+05	2006-03-01	Absoluta	Varonil	Brasil	15	1	Venezuela	Copa Mundial de Beach soccer	14
+06	2000-07-01	Absoluta	Varonil	Brasil	14	0	Alemania	Amistoso	14
+07	1999-01-01	Absoluta	Varonil	Brasil	17	3	Paraguay	Copa América de Beach soccer	14
+08	1998-08-01	Absoluta	Varonil	Brasil	15	1	Malasia		Mundialito	14
+09	1995-01-01	Absoluta	Varonil	Brasil	16	2	Países Bajos	Copa Mundial de Beach soccer	14
+10	2006-08-01	Absoluta	Varonil	Islas Salomón	13	0	Islas Cook	Copa Mundial de Beach soccer de la FIFA	13
+11	1999-11-28	Absoluta	Varonil	Brasil	13	0	España	Copa Latina	13
+12	1998-01-01	Absoluta	Varonil	Brasil	14	1	Italia	Copa Mundial de Beach Soccer	13
+13	1996-07-01	Absoluta	Varonil	Brasil	15	2	Japón	Amistoso	13
+14	1996-11-01	Absoluta	Varonil	Brasil	14	1	Malasia	Amistoso	13
+15	2006-11-06	Absoluta	Varonil	Portugal	14	2	Islas Salomón	12
+16	2003-02-01	Absoluta	Varonil	Brasil	13	1	Estados Unidos	12
+17	2001-07-01	Absoluta	Varonil	Francia	15	3	Inglaterra	Liga Europea Pro Beach soccer	12
+18	1996-01-01	Absoluta	Varonil	Brasil	13	1	Inglaterra	Amistoso	12
+19	1999-01-01	Absoluta	Varonil	Brasil	15	3	Argentina	Copa Mercosur	12
+20	2006-11-09	Absoluta	Varonil	Brasil	12	1	Canadá	Copa Mundial de Beach Soccer de la FIFA	11
+21	2006-10-01	Absoluta	Varonil	Francia	15	4	Madagascar	Amistoso	11
+22	2006-08-01	Absoluta	Varonil	Vanuatu	12	1	Islas Cook	Copa Mundial de Beach Soccer de la FIFA	11
+23	2006-03-01	Absoluta	Varonil	Brasil	11	0	Perú	Copa Mundial de Beach Soccer	11
+24	2001-07-01	Absoluta	Varonil	España	11	0	Inglaterra	Liga Europea Pro Beach Soccer	11
+25	2001-01-01	Absoluta	Varonil	Brasil	11	0	Italia	Copa Mundial de Beach Soccer	11
+26	1999-01-01	Absoluta	Varonil	Brasil	13	2	Uruguay	Copa Mercosur	11
+27	1997-01-01	Absoluta	Varonil	Brasil	14	3	Argentina	Copa Mundial de Beach Soccer	11
+28	1996-01-01	Absoluta	Varonil	Brasil	13	2	Canadá	Copa Mundial de Beach Soccer	11
+29	1995-01-01	Absoluta	Varonil	Brasil	13	2	Inglaterra	Copa Mundial de Beach Soccer	11
+30	2004-01-01	Absoluta	Varonil	Brasil	12	2	Suiza	Copa Mundial de Beach Soccer	10
+31	1999-01-01	Absoluta	Varonil	Uruguay	10	0	Sudáfrica	Copa Mundial de Beach Soccer	10
+32	1999-01-01	Absoluta	Varonil	Brasil	15	5	Francia	Copa Mundial de Beach Soccer	10
+33	1998-01-01	Absoluta	Varonil	Portigal	11	1	Chile	Copa Mundial de Beach Soccer	10
+34	2005-05-15	Absoluta	Varonil	Brasil	11	2	Japón	Copa Mundial de Beach Soccer de la FIFA	9
+35	2005-03-01	Absoluta	Varonil	Brasil	11	2	EEUU	Copa Mundial de Beach Soccer de la FIFA	9
+36	2002-01-01	Absoluta	Varonil	Uruguay	11	2	Argentina	Copa Mundial de Beach Soccer	9
+37	2000-01-01	Absoluta	Varonil	Brasil	12	3	Alemania	Copa Mundial de Beach Soccer	9
+38	1999-01-01	Absoluta	Varonil	Brasil	13	4	Chile	Copa Mercosur	9
+39	1997-01-01	Absoluta	Varonil	Brasil	12	3	Japón	Copa Mundial de Beach Soccer	9
+40	1995-01-01	Absoluta	Varonil	Brasil	12	3	México	Copa América de Beach Soccer	9
+41	2006-11-05	Absoluta	Varonil	Brasil	10	2	Japón	Copa Mundial de Beach Soccer de la FIFA	9
+42	2006-08-01	Absoluta	Varonil	Montenegro	10	4	Grecia	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	8
+43	2004-01-01	Absoluta	Varonil	Brasil	10	2	Alemania	Copa Mundial de Beach Soccer	8
+44	1998-01-01	Absoluta	Varonil	Brasil	10	2	España	Copa Mundial de Beach Soccer	8
+45	1997-01-01	Absoluta	Varonil	Brasil	10	2	Argentina	Copa Mundial de Beach Soccer	8
+46	1996-01-01	Absoluta	Varonil	Brasil	12	4	Italia	Copa Mundial de Beach Soccer	8
+47	2005-05-09	Absoluta	Varonil	Ucrania	8	1	Sudáfrica	Copa Mundial de Beach Soccer de la FIFA	7
+48	2005-05-08	Absoluta	Varonil	Brasil	9	2	Tailandia	Copa Mundial de Beach Soccer de la FIFA	7
+49	2006-11-05	Absoluta	Varonil	Francia	8	1	Canadá	Copa Mundial de Beach Soccer de la FIFA	7
+50	2006-11-04	Absoluta	Varonil	Portugal	10	3	Camerún	Copa Mundial de Beach Soccer de la FIFA	7
+51	2006-11-03	Absoluta	Varonil	Brasil	9	2	Polonia	Copa Mundial de Beach Soccer de la FIFA	7
+52	2001-01-01	Absoluta	Varonil	Brasil	13	3	Alemania	Copa Mundial de Beach Soccer	7
+53	2005-05-12	Absoluta	Varonil	Brasil	9	3	Argentina	Copa Mundial de Beach Soccer de la FIFA	6
+54	2005-05-10	Absoluta	Varonil	Francia	8	2	Argentina	Copa Mundial de Beach Soccer de la FIFA	6
+55	2005-05-10	Absoluta	Varonil	Portugal	9	3	Estados Unidos	Copa Mundial de Beach Soccer de la FIFA	6
+56	2005-03-02	Absoluta	Varonil	Estados Unidos	7	2	México	Copa Mundial de Beach Soccer de la FIFA	6
+57	2006-11-05	Absoluta	Varonil	España	6	1	Irán	Copa Mundial de Beach Soccer de la FIFA	5
+58	2006-11-04	Absoluta	Varonil	Uruguay	10	5	Islas Salomón	Copa Mundial de Beach Soccer de la FIFA	5
+59	2005-03-03	Absoluta	Varonil	Perú	8	3	Venezuela	Copa Mundial de Beach Soccer de la FIFA	5
+60	2005-03-02	Absoluta	Varonil	Brasil	6	1	Canadá	Copa Mundial de Beach Soccer de la FIFA	5
+61	2005-03-01	Absoluta	Varonil	Uruguay	7	2	Perú	Copa Mundial de Beach Soccer de la FIFA	5
+62	1999-01-01	Absoluta	Varonil	Brasil	10	5	Francia	Copa Mundial de Beach Soccer de la FIFA	5
+63	2006-11-09	Absoluta	Varonil	Portugal	6	2	Baharein	Copa Mundial de Beach Soccer de la FIFA	4
+64	2006-11-07	Absoluta	Varonil	España	4	0	Canadá	Copa Mundial de Beach Soccer de la FIFA	4
+65	2006-11-07	Absoluta	Varonil	Brasil	10	6	Estados Unidos	Copa Mundial de Beach Soccer de la FIFA	4
+66	2006-11-03	Absoluta	Varonil	Estados Unidos	8	4	Japón	Copa Mundial de Beach Soccer de la FIFA	4
+67	2006-09-15	Absoluta	Varonil	Canadá	7	3	Jamaica	Copa Mundial de Beach Soccer de la FIFA	4
+68	2005-05-08	Absoluta	Varonil	Francia	5	1	Australia	Copa Mundial de Beach Soccer de la FIFA	4
+69	2005-05-08	Absoluta	Varonil	Uruguay	7	3	Sudáfrica	Copa Mundial de Beach Soccer de la FIFA	4
+70	2005-05-08	Absoluta	Varonil	Portugal	4	0	Japón	Copa Mundial de Beach Soccer de la FIFA	4
+71	2005-03-05	Absoluta	Varonil	Uruguay	5	1	Estados Unidos	Copa Mundial de Beach Soccer de la FIFA	4
+72	2006-11-12	Absoluta Varonil	Brasil	4	1	Uruguay	Copa Mundial de Beach Soccer de la FIFA	3
+73	2006-11-11	Absoluta Varonil	Brasil	7	4	Portugal	Copa Mundial de Beach Soccer de la FIFA	3
+74	2006-11-07	Absoluta Varonil	Francia	6	3	Irán	Copa Mundial de Beach Soccer de la FIFA	3
+75	2006-11-07	Absoluta Varonil	Polonia	8	5	Japón	Copa Mundial de Beach Soccer de la FIFA	3
+76	2006-11-03	Absoluta Varonil	Francia	7	4	España	Copa Mundial de Beach Soccer de la FIFA	3
+77	2006-11-02	Absoluta Varonil	Islas Salomón	5	2	Camerún	Copa Mundial de Beach Soccer de la FIFA	3
+78	2006-09-16	Absoluta Varonil	Estados Unidos	7	4	México	Copa Mundial de Beach Soccer de la FIFA	3
+79	2006-09-14	Absoluta Varonil	Estados Unidos	5	2	Jamaica	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	3
+80	2006-09-13	Absoluta Varonil	Estados Unidos	3	0	Canadá	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	3
+81	2005-05-14	Absoluta Varonil	Francia	4	1	Japón	Copa Mundial de Beach Soccer de la FIFA,	3
+82	2005-05-12	Absoluta Varonil	Francia	7	4	España	Copa Mundial de Beach Soccer de la FIFA,	3
+83	2005-05-10	Absoluta Varonil	Brasil	4	1	España	Copa Mundial de Beach Soccer de la FIFA,	3
+84	2005-05-09	Absoluta Varonil	España	4	1	Tailandia	Copa Mundial de Beach Soccer de la FIFA	3
+85	2005-06-06	Absoluta Varonil	Brasil	5	2	Argentina	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	3
+86	2005-03-03	Absoluta Varonil	Uruguay	4	1	Argentina	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	3
+87	2005-03-01	Absoluta Varonil	Canadá	4	1	México	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	3
+88	2005-03-01	Absoluta Varonil	Argentina	3	0	Venezuela	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	3
+89	2006-11-11	Absoluta Varonil	Francia	6	4	Portugal	Copa Mundial de Beach Soccer de la FIFA,	2
+90	2006-11-06	Absoluta Varonil	Argentina	3	1	Italia	Copa Mundial de Beach Soccer de la FIFA	2
+91	2006-11-05	Absoluta Varonil	Estados Unidos	4	2	Polonia	Copa Mundial de Beach Soccer de la FIFA	2
+92	2006-11-02	Absoluta Varonil	Bahrein	4	2	Italia	Copa Mundial de Beach Soccer de la FIFA	2
+93	2006-09-16	Absoluta Varonil	Canadá	6	4	Costa Rica	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
+94	2006-09-14	Absoluta Varonil	Canadá	6	4	México	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
+95	2006-09-13	Absoluta Varonil	Costa Rica	8	6	Jamaica	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
+96	2005-05-12	Absoluta Varonil	Portugal	5	3	Ucrania	Copa Mundial de Beach Soccer de la FIFA	2
+97	2005-05-09	Absoluta Varonil	Argentina	3	1	Australia	Copa Mundial de Beach Soccer de la FIFA	2
+98	2005-03-06	Absoluta Varonil	Estados Unidos	4	2	Argentina	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
+99	2005-03-05	Absoluta Varonil	Brasil	2	0	Argentina	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
+100	2005-03-02	Absoluta Varonil	Estados Unidos	5	3	Canadá	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
+101	2005-03-02	Absoluta Varonil	Uruguay	4	2	Venezuela	Copa Mundial de Beach Soccer de la FIFA, eliminatorias	2
